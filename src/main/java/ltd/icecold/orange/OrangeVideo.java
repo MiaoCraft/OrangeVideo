@@ -16,7 +16,7 @@ import java.io.IOException;
 public final class OrangeVideo extends JavaPlugin {
 
     private static OrangeVideo instance;
-    public static final String CHANNEL = "OrangeVideo:message";
+    public static final String CHANNEL = "orangevideo:message";
 
     @Override
     public void onEnable() {
